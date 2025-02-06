@@ -1,2 +1,2 @@
 hello buddy
-current_city : btm
+current_city : ecity
